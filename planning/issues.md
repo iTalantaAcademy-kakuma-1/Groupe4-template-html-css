@@ -44,7 +44,7 @@ Each user story or feature will have it's own label, and you may have more than 
 ## Must-Have Issues
 Some tips to get you started creating issues from the development strategy. Feel free to change these if your team wants to, it's just a starting suggestion:
 
-- Site Title: Interface
+>> Site Title: Interface
 - Introduction: Interface
 - Main Info: Interface
 - Extra Info: Interface
