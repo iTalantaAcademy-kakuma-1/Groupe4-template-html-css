@@ -77,5 +77,6 @@
   animation: bounce 1s;
 }
 body {
-  background-color: blue;
+  background-image: url("paper.gif");
+  background-color: #cccccc;
 }
