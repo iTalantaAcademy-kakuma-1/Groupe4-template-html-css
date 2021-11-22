@@ -76,7 +76,7 @@
 .bouncy-img:hover {
   animation: bounce 1s;
 }
-body {
-  background-image: url("paper.gif");
-  background-color: #cccccc;
+div {
+  background-color: green;
+  opacity: 0.3;
 }
